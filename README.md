@@ -22,3 +22,5 @@ Before running the script, ensure you have the following installed:
   "warningExtensions": [".exe", ".bat", ".com"],
   "toSkip": ["node_modules", "temp"]
 }
+
+[Know more about fsWatcher in](https://www.jaccon.com.br/fswatcher-projeto-em-python-para-monitoramento-de-mudancas-em-arquivos-e-diretorios-com-sistema-de-alarme-integrado-ao-telegram/)
