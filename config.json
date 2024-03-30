@@ -1,0 +1,7 @@
+{
+  "botToken": "",
+  "botChatID": "",
+  "warningExtensions": [".php", ".exe", ".bat", ".com", ".html"],
+  "logDir": "reports",
+  "toSkip" : ["node_modules"]
+}
